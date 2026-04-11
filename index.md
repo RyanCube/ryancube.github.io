@@ -1,4 +1,4 @@
-[Home](./) | [Projects](./projects.md)
+[Home](./) | [Projects](./projects)
 # Ryan Cho
 ### Mechanical Engineering Background | Designing • Tinkering • Problem Solving
 

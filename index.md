@@ -12,31 +12,31 @@ This portfolio documents engineering projects ranging from mechanical design and
 
 ## Featured Projects
 
-### ⚙️ Mechanical Design Capstone (3rd Place)
+### ⚙️ Mechanical Design Capstone *(3rd Place)*
 Design and development of a functional device with full prototyping, testing, and presentation.
 
-→ [View Case Study](https://github.com/yourusername/capstone-repo)
+[→ Read More](./projects/capstone)
 
 ---
 
 ### 📢 Toronto Event Director
 Planned and executed a successful 2-day esports tournament with 100+ participants.
 
-→ [View Case Study](https://github.com/yourusername/tetris-repo)
+[→ Read More](./projects/tetris)
 
 ---
 
-### 📺 CRT Restoration Project
+### 📺 CRT TV Restoration Project
 Full teardown, troubleshooting, and restoration of a vintage CRT display with functional recovery.
 
-→ [View Case Study](https://github.com/yourusername/crt-repo)
+[→ Read More](./projects/crt)
 
 ---
 
 ### 🎨 Wearable Rubik’s Cube Costume
 Custom-built wearable structure with a functional rotating middle layer.
 
-→ [View Case Study](https://github.com/yourusername/rubiks-repo)
+[→ Read More](./projects/rubiks)
 
 ---
 
@@ -44,10 +44,8 @@ Custom-built wearable structure with a functional rotating middle layer.
 ## Contact
 
 Email: choryan555@gmail.com
-
-LinkedIn: https://linkedin.com/in/ryanmcho
-
-GitHub: https://github.com/RyanCube
+LinkedIn: [linkedin.com/in/ryanmcho](https://linkedin.com/in/ryanmcho)
+GitHub: [github.com/RyanCube](https://github.com/RyanCube)
 
 <!--
 **RyanCube/ryancube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

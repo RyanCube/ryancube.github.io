@@ -44,7 +44,9 @@ Custom-built wearable structure with a functional rotating middle layer.
 ## Contact
 
 Email: choryan555@gmail.com
+
 LinkedIn: https://linkedin.com/in/ryanmcho
+
 GitHub: https://github.com/RyanCube
 
 <!--

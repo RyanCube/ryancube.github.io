@@ -1,3 +1,4 @@
+[Home](./) | [Projects](./projects.md)
 # Ryan Cho
 ### Mechanical Engineer | Design • Fabrication • Problem Solving
 

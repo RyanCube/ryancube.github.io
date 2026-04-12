@@ -45,7 +45,6 @@ Custom-built wearable structure with a functional rotating middle layer.
 
 Email: choryan555@gmail.com
 LinkedIn: [linkedin.com/in/ryanmcho](https://linkedin.com/in/ryanmcho)
-GitHub: [github.com/RyanCube](https://github.com/RyanCube)
 
 <!--
 **RyanCube/ryancube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

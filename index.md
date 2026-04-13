@@ -1,8 +1,4 @@
----
-
----
-
-# Mechanical Mindset | Fabrication • Manufacturing • Tinkering
+## Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 

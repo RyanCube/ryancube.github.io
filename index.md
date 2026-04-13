@@ -4,6 +4,8 @@ title: "Ryan Cho's Portfolio"
 
 # Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
+![](./images/headshot)
+
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 
 Time spent on factory floors, under the hood of cars, and in office environments managing projects and documentation has shaped how I think. A curiosity for how systems work and a drive to make them better ties it all together. I'm meticulous by nature and thrive in environments where planning and execution both matter.

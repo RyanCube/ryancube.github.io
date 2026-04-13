@@ -1,40 +1,40 @@
-[Home](./) | [Projects](./projects)
-# Ryan Cho
-### Mechanical Engineering Background | Designing • Tinkering • Problem Solving
+# Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
 ---
 
-I design and build physical systems that combine mechanical creativity, hands-on fabrication, and iterative problem solving.
+I'm Ryan. I take things apart to understand them, and build things to prove I do.
 
-This portfolio documents engineering projects ranging from mechanical design and restoration work to large-scale event execution.
+Time spent on factory floors, under the hood of cars, and in office environments managing projects and documentation has shaped how I think. A curiosity for how systems work and a drive to make them better ties it all together. I'm meticulous by nature and thrive in environments where planning and execution both matter.
+
+The projects below are a reflection of that.
 
 ---
 
 ## Featured Projects
 
-### ⚙️ Mechanical Design Capstone *(3rd Place)*
-Design and development of a functional device with full prototyping, testing, and presentation.
+### Mechanical Design Capstone *(3rd Place)*
+Designed and prototyped a functional mechanical device through iterative testing, refinement, and live demonstration.
 
 [→ Read More](./projects/capstone)
 
 ---
 
-### 📢 Toronto Event Director
-Planned and executed a successful 2-day esports tournament with 100+ participants.
+### Toronto Esports Event
+Directed a 2-day competitive Tetris torunament at Toronto Game Expo, managing logistics and operations for 100+ participants.
 
 [→ Read More](./projects/tetris)
 
 ---
 
-### 📺 CRT TV Restoration Project
-Full teardown, troubleshooting, and restoration of a vintage CRT display with functional recovery.
+### CRT Restoration 
+Diagnosed and restored a vintage CRT television through full teardown, component-level troubleshooting, and repair.
 
 [→ Read More](./projects/crt)
 
 ---
 
-### 🎨 Wearable Rubik’s Cube Costume
-Custom-built wearable structure with a functional rotating middle layer.
+### Functional Rubik’s Cube Costume *(1st place)*
+Designed and built a wearable Rubik's Cube costume with a fully functional rotating middle layer.
 
 [→ Read More](./projects/rubiks)
 
@@ -43,7 +43,7 @@ Custom-built wearable structure with a functional rotating middle layer.
 
 ## Contact
 
-Email: choryan555@gmail.com
+Email: [choryan555@gmail.com](mailto:choryan555@gmail.com)
 LinkedIn: [linkedin.com/in/ryanmcho](https://linkedin.com/in/ryanmcho)
 
 <!--

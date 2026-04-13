@@ -1,4 +1,4 @@
-# Mechanical Mindset | Fabrication • Manufacturing • Tinkering
+## Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
 ---
 
@@ -11,6 +11,7 @@ The projects below are a reflection of that.
 ---
 
 ## Featured Projects
+---
 
 ### Mechanical Design Capstone *(3rd Place)*
 Designed and prototyped a functional mechanical device through iterative testing, refinement, and live demonstration.

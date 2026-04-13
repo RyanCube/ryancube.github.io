@@ -1,5 +1,4 @@
-
-**Mechanical Mindset | Fabrication • Manufacturing • Tinkering**
+# Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
 ---
 

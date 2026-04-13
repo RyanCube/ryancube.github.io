@@ -15,15 +15,15 @@ The projects below are a reflection of that.
 ## Featured Projects
 ---
 
-### Mechanical Design Capstone *(3rd Place)*
-Designed and prototyped a functional mechanical device through iterative testing, refinement, and live demonstration.
+### Extendable lifting lug threading tool *(3rd Place)*
+Designed and prototyped a functional mechanical device for Ontario Power Generation, increasing worker safety while decreasing resin liner retrieval time.
 
 [→ Read More](./projects/capstone)
 
 ---
 
 ### Toronto Esports Event
-Directed a 2-day competitive Tetris torunament at Toronto Game Expo, managing logistics and operations for 100+ participants.
+Directed a 2-day competitive Tetris tournament at Toronto Game Expo, managing logistics and operations for 100+ participants.
 
 [→ Read More](./projects/tetris)
 

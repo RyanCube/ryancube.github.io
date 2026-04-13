@@ -4,7 +4,7 @@ title: "Ryan Cho's Portfolio"
 
 # Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
-![""](./images/headshot.jpg)
+![](./images/headshot.jpg)
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 

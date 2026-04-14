@@ -18,9 +18,9 @@ The projects below are a reflection of that.
 ---
 
 ### Surface-Operated Resin Liner Retrieval System
-Designed and prototyped a tool that eliminates confined-space entry and radiation exposure while speeding up resin liner retrieval.
+Designed and prototyped a tool that eliminates confined-space entry and radiation exposure while accerarating resin liner retrieval. Awarded **3rd place** in the Mechanical Engineering capstone project.
 
-**Mechanical Engineering Capstone · Sponsored by Ontario Power Generation · 3rd Place Overall**
+
 
 [→ Read More](./projects/capstone)
 

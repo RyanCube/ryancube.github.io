@@ -9,17 +9,18 @@ title: "Ryan Cho's Portfolio"
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 
-Time spent on factory floors, under the hood of cars, and in office environments managing projects and documentation has shaped how I think. A curiosity for how systems work and a drive to make them better ties it all together. I'm meticulous by nature and thrive in environments where planning and execution both matter.
+I've spent time on factory floors, under the hood of cars, and in office environments, collaborating with others and getting things done. Those experiences shaped a curiosity for how systems work and a drive to make them better. I'm meticulous by nature and thrive in environments where planning and execution both matter.
 
 The projects below are a reflection of that.
 
 ---
-
 ## Featured Projects
 ---
 
-### Extendable lifting lug threading tool *(3rd Place)*
-Designed and prototyped a functional mechanical device for Ontario Power Generation, increasing worker safety while decreasing resin liner retrieval time.
+### Surface-Operated Resin Liner Retrieval System
+Designed and prototyped a tool that eliminates confined-space entry and radiation exposure while speeding up resin liner retrieval.
+
+**Mechanical Engineering Capstone · Sponsored by Ontario Power Generation · 3rd Place Overall**
 
 [→ Read More](./projects/capstone)
 

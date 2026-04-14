@@ -4,7 +4,9 @@ title: "Ryan Cho's Portfolio"
 
 # Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
-<img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="500">
+<div align="center">
+<img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="400">
+</div>
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 

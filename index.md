@@ -1,8 +1,6 @@
 ---
-title: "Ryan Cho's Portfolio"
+title: "Mechanical Solutions | Fabrication • Manufacturing • Tinkering"
 ---
-
-# Mechanical Mindset | Fabrication • Manufacturing • Tinkering
 
 <div align="center">
 <img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="400">

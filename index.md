@@ -20,7 +20,7 @@ The projects below reflect that approach.
 Designed and prototyped a tool that eliminates confined-space entry and radiation exposure while accelerating resin liner retrieval. Awarded **3rd place** in the Mechanical Engineering capstone project.
 
 <div align="center">
-<img src="../images/isometric_view.jpg" width="300">
+<img src="../images/isometric_view.jpg" width="350">
 </div>
 
 [→ Read More](./projects/capstone)
@@ -41,14 +41,18 @@ Planned and executed a live competitive esports event attracting a packed audien
 ### CRT Television Repair & Restoration
 Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation 
 
-
+<div align="center">
+<img src="../images/tube_top.jpg" width="350">
+</div>
 
 [→ Read More](./projects/crt)
 
 ---
 
-### Functional Rubik’s Cube Costume *(1st place)*
-Designed and built a wearable Rubik's Cube costume with a fully functional rotating middle layer.
+### Functional Rubik’s Cube Costume 
+Engineered a wearable Rubik's Cube costume with a functional rotating middle layer.
+
+
 
 [→ Read More](./projects/rubiks)
 

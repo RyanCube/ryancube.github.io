@@ -13,7 +13,7 @@ I've spent time on factory floors, under the hood of cars, and in office environ
 
 The projects below are a reflection of that.
 
----
+
 ## Featured Projects
 ---
 

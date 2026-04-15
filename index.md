@@ -32,7 +32,7 @@ Designed and prototyped a tool that eliminates confined-space entry and radiatio
 Planned and executed a live competitive esports event attracting a packed audience, 300+ livestream viewers, and $2k+ in community prize funding.
 
 <div align="center">
-<img src="../images/Promo_slide.jpg" width="350">
+<img src="../images/Promo_slide.jpg" width="450">
 </div>
 
 [→ Read More](./projects/tetris)

@@ -39,8 +39,10 @@ Planned and executed a live competitive esports event attracting a packed audien
 
 ---
 
-### CRT Restoration 
-Diagnosed and restored a vintage CRT television through full teardown, component-level troubleshooting, and repair.
+### CRT Television Repair & Restoration
+Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation 
+
+
 
 [→ Read More](./projects/crt)
 

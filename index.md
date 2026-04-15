@@ -13,8 +13,8 @@ With a background in mechanical engineering and hands-on experience in manufactu
 
 The projects below reflect that approach.
 
-## Featured Projects
 ---
+## Featured Projects
 
 ### Surface-Operated Resin Liner Retrieval System
 Designed and prototyped a tool that eliminates confined-space entry and radiation exposure while accelerating resin liner retrieval. Awarded **3rd place** in the Mechanical Engineering capstone project.

@@ -9,7 +9,7 @@ title: "Ryan Cho's Portfolio"
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 
-I've spent time on factory floors, under the hood of cars, and in office environments, collaborating with others and getting things done. Those experiences shaped a curiosity for how systems work and a drive to make them better. I'm meticulous by nature and thrive in environments where planning and execution both matter.
+I've spent time on factory floors, under the hood of cars, and in office environments, collaborating with teams and getting things done. I'm meticulous by nature and thrive in environments where planning and execution both matter.
 
 The projects below are a reflection of that.
 
@@ -28,8 +28,10 @@ Designed and prototyped a tool that eliminates confined-space entry and radiatio
 
 ---
 
-### Toronto Esports Event
-Directed a 2-day competitive Tetris tournament at Toronto Game Expo, managing logistics and operations for 100+ participants.
+### Toronto's First Classic Tetris Tournament
+Planned and executed a live competitive esports event attracting a packed audience, 300+ livestream viewers, and $2k+ in community prize funding.
+
+
 
 [→ Read More](./projects/tetris)
 

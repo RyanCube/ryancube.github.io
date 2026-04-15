@@ -9,10 +9,9 @@ title: "Ryan Cho's Portfolio"
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
 
-I've spent time on factory floors, under the hood of cars, and in office environments, collaborating with teams and getting things done. I'm meticulous by nature and thrive in environments where planning and execution both matter.
+With a background in mechanical engineering and hands-on experience in manufacturing, automotive work, and project environments, I enjoy turning complex problems into practical solutions.
 
-The projects below are a reflection of that.
-
+The projects below reflect that approach.
 
 ## Featured Projects
 ---

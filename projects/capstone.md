@@ -9,7 +9,6 @@ At Ontario Power Generation (OPG), resin waste is contained in cylindrical resin
 
 <div align="center">
   <img src="../images/confined_space_schematic.jpg" style="width:75%; height:auto;">
-  <p><em>IC-18 schematic</em></p>
 </div>
 
 ---

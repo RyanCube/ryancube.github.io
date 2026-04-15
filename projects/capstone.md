@@ -28,9 +28,5 @@ What was the outcome? What did you learn?
 
 ---
 
-## Links
-- [GitHub Repository](https://github.com/RyanCube/your-repo)
-
----
 
 [← Back to Home](../)

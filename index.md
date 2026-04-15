@@ -39,7 +39,7 @@ Planned and executed a live competitive esports event attracting a packed audien
 ---
 
 ### CRT Television Repair & Restoration
-Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation 
+Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation.
 
 <div align="center">
 <img src="../images/tube_top.jpg" width="350">
@@ -50,7 +50,7 @@ Serviced and restored a CRT television through full disassembly, electronics rep
 ---
 
 ### Functional Rubik’s Cube Costume 
-Engineered a wearable Rubik's Cube costume with a functional rotating middle layer.
+Built a wearable Rubik's Cube costume with a functional middle layer, requiring custom fabrication and mechanical problem solving.
 
 <div align="center">
 <img src="../images/cube_costume_with_cube.JPG" width="350">

@@ -5,6 +5,7 @@ title: "Ryan Cho's Portfolio"
 
 <div align="center">
 <img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="350">
+<p><em>photo by David MacDonald</em></p>
 </div>
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.

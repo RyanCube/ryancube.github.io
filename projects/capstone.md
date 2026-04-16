@@ -14,7 +14,7 @@ At Ontario Power Generation (OPG), resin waste is contained in cylindrical resin
 ---
 
 ## The Problem
-The current method of retrieval requires an individual to go down into the IC-18 using scaffolding, and manually thread the crane lifting sling through the lifting lug. This method can only reach the second liner, leaving the last four unreachable. In addition, this method of retrieval has a big problem of putting the workers at risk of C-14 radiation exposure and falling. The scope of this project was to design a lug lifting system that can be operated from the surface, and lift all six resin liners from the IC-18. Furthermore, this project also aims to provide a safer alternative for OPG workers.
+The current method of retrieval requires an individual to go down into the IC-18 using scaffolding, and manually thread the crane lifting sling through the lifting lug. This method can only reach the second liner, leaving the last four unreachable. In addition, this method of retrieval has a big problem of putting the workers at risk of C-14 radiation exposure and falling. The scope of this project was to design a lug lifting system that can be operated from the surface, and lift all six resin liners from the IC-18. Furthermore, this project also aimed to provide a safer alternative for OPG workers.
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
@@ -33,7 +33,13 @@ The current method of retrieval requires an individual to go down into the IC-18
 
 ---
 
-## Solution Design Concept
+## Initial Design Concept
+With the given constraints, a **Hook-Gate Controller with Magnets** was designed. This design concept aimed to eliminate the need for a crane lifting sling altogether. It would attach to the crane, and be lowered into the IC-18. The electromagnets would attract and raise the lifting lug to its "up" position. Then, the gate of the hook would be controlled remotely, securing the lifting lug in place.
+
+<div align="center">
+  <img src="../images/tsagdsbfs.jpg" style="width:75%; height:auto;">
+</div>
+
 
 
 [← Back to Home](../)

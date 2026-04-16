@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-At Ontario Power Generation (OPG), resin waste is contained in cylindrical resin liners, which are placed in the IC-18 inground structures. The IC-18 extends 40ft into the ground and contains 6 resin liners stacked on top of each other. The resin liners have a lifting lug on the top for transporting the liners in or out of the IC-18. 
+At Ontario Power Generation (OPG), resin waste is stored in cylindrical liners housed within the IC-18 inground storage structures. Each structure extends approximately 40 ft below grade and contains six resin liners stacked vertically. Every resin liner includes a lifting lug to allow handling during storage operations.
 
 <div align="center">
   <img src="../images/confined_space_schematic.jpg" style="width:75%; height:auto;">
@@ -14,7 +14,7 @@ At Ontario Power Generation (OPG), resin waste is contained in cylindrical resin
 ---
 
 ## The Problem
-The current method of retrieval requires an individual to go down into the IC-18 using scaffolding, and manually thread the crane lifting sling through the lifting lug. This method can only reach the second liner, leaving the last four unreachable. In addition, this method of retrieval has a big problem of putting the workers at risk of C-14 radiation exposure and falling. The scope of this project was to design a lug lifting system that can be operated from the surface, and lift all six resin liners from the IC-18. Furthermore, this project also aimed to provide a safer alternative for OPG workers.
+The existing retrieval process required workers to enter the IC-18 structure on scaffolding to manually thread a crane sling through the lifting lug, exposing them to fall hazards and C-14 radiation while only reaching two of six resin liners. This project developed a surface-operated system to safely retrieve all six liners.
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
@@ -38,23 +38,23 @@ With the given constraints, a **Hook-Gate Controller with Magnets** was designed
 
 <div align="center">
   <img src="../images/hook_gate_controller.JPG" style="width:75%; height:auto;">
-  <p><em>Hook-Gate Controller with Magnets Components Labelled</em></p>
+  <p><em>Hook-Gate Controller with Magnets</em></p>
 </div>
 
 ## Major Design Pivot
 The hook-gate controller with magnets was conceptualized with the assumption that the lifting lugs were ferrous. However, later meetings with OPG revealed that not all lifting lugs were attracted to a magnet. Also, rather than using a lifting hook, OPG preferred a method of looping a lifting sling through the lifting lug. Therefore, a significant design pivot was made to accomodate these new requirements.
 
-First, a 30ft telescopic pole is used because it provides higher rigidity and control, as opposed to a cable with a hook dangling at the end of it.
+First, a 30 ft telescopic pole is used because it provides higher rigidity and control, as opposed to a cable with a hook dangling at the end of it.
 
 <div align="center">
-  <img src="../images/s.jpg" style="width:75%; height:auto;">
+  <img src="../images/telescopic_pole.JPG" style="width:75%; height:auto;">
   <p><em>7 to 30 Foot Extendable Pole</em></p>
 </div>
 
 Next, a hook threader is used to loop a rope through the lifting lug. I discovered this through researching potential ways ropes were passed through stationary objects. The hook threader is typically used by fishermen to easily pass a line around a mooring.
 
 <div align="center">
-  <img src="../images/s.jpg" style="width:75%; height:auto;">
+  <img src="../images/threading_tool.JPG" style="width:75%; height:auto;">
   <p><em>Hook Threader</em></p>
 </div>
 

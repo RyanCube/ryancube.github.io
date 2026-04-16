@@ -5,7 +5,6 @@ title: "Ryan Cho's Portfolio"
 
 <div align="center">
 <img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="350">
-<p><em>photo by David MacDonald</em></p>
 </div>
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.
@@ -64,8 +63,10 @@ Built a wearable Rubik's Cube costume with a functional middle layer, requiring 
 
 ## Contact
 
-Email: [choryan555@gmail.com](mailto:choryan555@gmail.com)
+Email: [choryan555@gmail.com](mailto:choryan555@gmail.com)  
 LinkedIn: [linkedin.com/in/ryanmcho](https://linkedin.com/in/ryanmcho)
+---
+*Headshot photo by David MacDonald*
 
 <!--
 **RyanCube/ryancube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

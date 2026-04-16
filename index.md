@@ -17,7 +17,7 @@ The projects below reflect that approach.
 ## Featured Projects
 
 ### Surface-Operated Resin Liner Retrieval System
-Designed and prototyped a tool that eliminates confined-space entry and radiation exposure while accelerating resin liner retrieval. Awarded **3rd place** in the Mechanical Engineering capstone project.
+Designed and prototyped a tool that eliminated confined-space entry and radiation exposure while accelerating resin liner retrieval time. Awarded **3rd place** in the Mechanical Engineering capstone project.
 
 <div align="center">
 <img src="../images/isometric_view.jpg" width="350">
@@ -28,7 +28,7 @@ Designed and prototyped a tool that eliminates confined-space entry and radiatio
 ---
 
 ### Toronto's First Classic Tetris Tournament
-Planned and executed a live competitive esports event attracting a packed audience, 300+ livestream viewers, and $2k+ in community prize funding.
+Led the planning and execution of a live competitive esports event, attracting 100+ attendees, 300+ livestream viewers, and $2k+ in community prize funding.
 
 <div align="center">
 <img src="../images/Promo_slide.jpg" width="450">
@@ -50,7 +50,7 @@ Serviced and restored a CRT television through full disassembly, electronics rep
 ---
 
 ### Functional Rubik’s Cube Costume 
-Built a wearable Rubik's Cube costume with a functional middle layer, requiring custom fabrication and mechanical problem solving.
+Designed and fabricated a Rubik's Cube costume with a rotating middle layer, allowing the costume to be "scrambled" and "solved."
 
 <div align="center">
 <img src="../images/cube_costume_with_cube.JPG" width="350">

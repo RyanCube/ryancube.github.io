@@ -20,7 +20,7 @@ The projects below reflect that approach.
 Designed and prototyped a tool that eliminated confined-space entry and radiation exposure while accelerating resin liner retrieval time. Awarded **3rd place** in the Mechanical Engineering capstone project.
 
 <div align="center">
-<img src="../images/isometric_view.jpg" width="350">
+<img src="../images/isometric_far.JPG" width="350">
 </div>
 
 [→ Read More](./projects/capstone)

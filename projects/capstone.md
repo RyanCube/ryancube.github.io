@@ -34,7 +34,7 @@ The current method of retrieval requires an individual to go down into the IC-18
 ---
 
 ## Initial Design Concept
-With the given constraints, a **Hook-Gate Controller with Magnets** was designed. This design concept aimed to eliminate the need for a crane lifting sling altogether. It would attach to the crane, and be lowered into the IC-18. The electromagnets would attract and raise the lifting lug to its "up" position. Then, the gate of the hook would be controlled remotely, securing the lifting lug in place.
+With the given constraints, a **Hook-Gate Controller with Magnets** was designed. This design concept aimed to eliminate the need for a crane lifting sling altogether. It would attach to the crane, and be lowered into the IC-18. The electromagnets would attract and raise the lifting lug to its "up" position. Then, the gate of the hook could be controlled remotely, securing the lifting lug in place.
 
 <div align="center">
   <img src="../images/tsagdsbfs.jpg" style="width:75%; height:auto;">

@@ -97,7 +97,7 @@ The presentation included a successful live demonstration of the device. The pro
 </div>
 
 <div align="center">
-  <img src="../images/c.jpg" style="width:75%; height:auto;">
+  <img src="../images/capstone_award.jpg" style="width:75%; height:auto;">
   <p><em>3rd Place Certificate</em></p>
 </div>
 

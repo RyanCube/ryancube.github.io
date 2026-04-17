@@ -47,7 +47,7 @@ Once I got inside, two things stood out immediately. A blown capacitor on the ne
 ---
 
 ## Diagnosis
-I tracked down a service manual for a similar CRT by cross-referencing the circuit board model. Going through the electrical schematic, I was able to pinpoint the specs of the blown capacitor and figure out what I needed to order.
+I tracked down the service manual for a similar CRT by cross-referencing the circuit board model. Going through the electrical schematic, I was able to pinpoint the specs of the blown capacitor and figure out what I needed to order.
 
 <div align="center">
   <img src="../images/circuit_diagram.JPG" style="width:75%; height:auto;">
@@ -70,12 +70,13 @@ For the tilt, I pryed off the metal brackets holding the tube assembly and — w
     <img src="../images/brackets_removed.jpg" style="width:100%; height:250; object-fit:cover;">
     <p><em>Both Brackets Removed</em></p>
   </div>
-  <div style="text-align:center;">
-    <img src="../images/tube_top.jpg" style="width:100%; height:350; object-fit:cover;">
-    <p><em>Yoke Adjustment (Copper Part)</em></p>
-  </div>
 </div>
 
+  <div align="center">
+    <img src="../images/tube_top.jpg" style="width:75%; height:auto;">
+    <p><em>Yoke Adjustment (Copper Part)</em></p>
+  </div>
+  
 The missing screws were sorted out at the hardware store. I just tried different sizes until one was a correct match.
 
 ---

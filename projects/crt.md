@@ -109,21 +109,21 @@ After some further research, I found out how to access the service menu, a hidde
 ---
 
 ## Final Result
-All the display issues were resolved. The display looks fantastic. Beyond the results, this was a valuable hands-on lesson in electronics troubleshooting.
+In the end, I was able to resolve all the issues and restore this TV to working condition. Beyond the results, this was a valuable hands-on lesson in electronics safety, troubleshooting, and repair.
 
 <div align="center">
-  <img src="../images/crt-final.jpg" style="width:75%; height:auto;">
-  <p><em>Fully restored and running</em></p>
+  <img src="../images/kirby_crt.jpeg" style="width:75%; height:auto;">
+  <p><em>Bratz CRT with Box and NES Console</em></p>
 </div>
 
 <div align="center">
-  <img src="../images/crt-final.jpg" style="width:75%; height:auto;">
-  <p><em>Fully restored and running</em></p>
+  <img src="../images/kirby_title.jpeg" style="width:75%; height:auto;">
+  <p><em>Kirby's Adventure Title Screen</em></p>
 </div>
 
 <div align="center">
-  <img src="../images/crt-final.jpg" style="width:75%; height:auto;">
-  <p><em>Fully restored and running</em></p>
+  <img src="../images/smb3_crt.jpeg" style="width:75%; height:auto;">
+  <p><em>Super Mario Bros 3 Gameplay</em></p>
 </div>
 
 

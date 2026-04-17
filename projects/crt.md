@@ -116,5 +116,16 @@ All the display issues were resolved. The display looks fantastic. Beyond the re
   <p><em>Fully restored and running</em></p>
 </div>
 
+<div align="center">
+  <img src="../images/crt-final.jpg" style="width:75%; height:auto;">
+  <p><em>Fully restored and running</em></p>
+</div>
+
+<div align="center">
+  <img src="../images/crt-final.jpg" style="width:75%; height:auto;">
+  <p><em>Fully restored and running</em></p>
+</div>
+
+
 ---
 [← Back to Home](../)

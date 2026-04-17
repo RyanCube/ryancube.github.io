@@ -19,15 +19,15 @@ The existing retrieval process required workers to enter the IC-18 structure on 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
     <img src="../images/hoist_ring_schematic.jpg" style="width:100%; height:200px; object-fit:cover;">
-    <p><em>Lifting lug schematic</em></p>
+    <p><em>Lifting Lug Schematic</em></p>
   </div>
   <div style="text-align:center;">
     <img src="../images/lifting_lug_1.jpg" style="width:100%; height:200px; object-fit:cover;">
-    <p><em>Lug variation 1</em></p>
+    <p><em>Lug Variation 1</em></p>
   </div>
   <div style="text-align:center;">
     <img src="../images/lifting_lug_2.jpg" style="width:100%; height:200px; object-fit:cover;">
-    <p><em>Lug variation 2</em></p>
+    <p><em>Lug Variation 2</em></p>
   </div>
 </div>
 
@@ -40,6 +40,8 @@ Given the initial constraints, a **Hook-Gate Controller with Magnets** was devel
   <img src="../images/hook_gate_controller.JPG" style="width:75%; height:auto;">
   <p><em>Hook-Gate Controller with Magnets</em></p>
 </div>
+
+---
 
 ## Major Design Pivot
 This concept assumed the lifting lugs were ferrous. However, discussions with OPG later revealed that not all lifting lugs were magnetic. In addition, OPG preferred a method that looped a lifting sling through the lug rather than using a lifting hook. These new requirements prompted a significant design pivot.
@@ -64,11 +66,11 @@ A custom adapter was designed and CNC machined from 6061-T4 aluminum to connect 
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="../images/adapter_drawing.JPG" style="width:100%; height:200px; object-fit:cover;">
+    <img src="../images/adapter_drawing.JPG" style="width:100%; height:auto; object-fit:cover;">
     <p><em>Adapter CAD Drawing</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/adapter.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <img src="../images/adapter.jpg" style="width:100%; height:auto; object-fit:cover;">
     <p><em>Machined Adapter</em></p>
   </div>
 </div>
@@ -85,11 +87,11 @@ The presentation included a successful live demonstration of the device. The pro
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="../images/demonstration_1.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <img src="../images/demonstration_1.jpg" style="width:100%; height:auto; object-fit:cover;">
     <p><em>Demonstration Part 1</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/demonstration_2.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <img src="../images/demonstration_2.jpg" style="width:100%; height:auto; object-fit:cover;">
     <p><em>Demonstration Part 2</em></p>
   </div>
 </div>

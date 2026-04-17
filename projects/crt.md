@@ -5,9 +5,9 @@
 ---
 
 ## Backstory
-I picked this up off of Facebook Marketplace listed as parts only — a Bratz-branded CRT television from the early 2000s. These specialty kids' sets were produced in limited quantities and are now rare and collectible. The housing was missing two screws and the display wasn't working properly, but I was drawn to the challenge.
+I found this on Facebook Marketplace listed as parts only. It's Bratz-themed CRT television from the early 2000s. These specialty kids' sets were made in limited quantities and are now rare and collectible. The housing was missing a few screws and the display was messed up, but I was drawn to the challenge.
 
-I've been fascinated by CRT technology for some time, and I actively collect them for the retro gaming events I host. This deal was too good to pass up.
+I've been into CRT technology for a while now and I collect them for the retro gaming events I run. This deal was too good to pass up.
 
 <div align="center">
   <img src="../images/bratz.jpg" style="width:75%; height:auto;">
@@ -17,38 +17,52 @@ I've been fascinated by CRT technology for some time, and I actively collect the
 ---
 
 ## Initial Assessment
-The TV powered on, which was a good sign. But the display had a prominent black bar across the top, the entire image was rotated at an angle, and there was noticeable bowing on the edges of the screen. I used a display testing tool to help characterize the issues. It was clear this CRT needed to be taken apart.
+It powered on, which was promising. But the picture had a black bar across the top, the whole image was tilted at an angle, and both sides of the screen were bowing inward. I ran it through a display testing tool to get a better read on what I was dealing with. It was clear this CRT needed to be taken apart.
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="../images/vertical_issue.jpg" style="width:75%; height:auto; object-fit:cover;">
-    <p><em>Caption 1</em></p>
+    <img src="../images/vertical_issue.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>CRT Powered On</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/vertical_issue2.jpg" style="width:75%; height:auto; object-fit:cover;">
-    <p><em>Caption 2</em></p>
+    <img src="../images/vertical_issue2.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Display Geometry Issue</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/hazard_zones.jpg" style="width:75%; height:auto; object-fit:cover;">
-    <p><em>Caption 3</em></p>
+    <img src="../images/hazard_zones.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Display Borders Issue</em></p>
   </div>
 </div>
 
 ---
 
 ## Teardown
-Opening it up revealed two culprits. A blown capacitor on the circuit board — visible 
-damage — was the likely cause of the black bar. The epoxy used to secure the tube in 
-place had dried out and crumbled, allowing the tube to shift and causing the tilt. On top 
-of that, years of dust had accumulated inside and needed to be cleaned out before any 
-repair work could begin.
+Once I got inside, two things stood out immediately. A blown capacitor on the neckboard, which was almost certainly the cause of the black bar. And the epoxy that's supposed to hold the yoke in place had completely dried out and crumbled, letting the yoke shift and causing the tilt. The inside was also covered in dust, so I got that cleaned out before anything else.
+
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="../images/blown_capacitor.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Faulty Capacitor</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/vertical_issue2.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Display Geometry Issue</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/hazard_zones.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Display Borders Issue</em></p>
+  </div>
+</div>
 
 ---
 
 ## Diagnosis
-I tracked down the service manual for a similar CRT by looking up the circuit board 
-model. Scanning the electrical schematic, I identified the specifications of the blown 
-capacitor and sourced a replacement.
+I tracked down a service manual for a similar CRT by cross-referencing the circuit board model. Going through the electrical schematic, I was able to pinpoint the specs of the blown capacitor and figure out what I needed to order.
+
+<div align="center">
+  <img src="../images/circuit_diagram.jpg" style="width:75%; height:auto;">
+  <p><em>Circuit Board Schematic</em></p>
+</div>
 
 ---
 

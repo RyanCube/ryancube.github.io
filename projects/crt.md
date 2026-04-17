@@ -5,7 +5,7 @@
 ---
 
 ## Backstory
-I found this on Facebook Marketplace listed as parts only. It's Bratz-themed CRT television from the early 2000s. These specialty kids' sets were made in limited quantities and are now rare and collectible. The housing was missing a few screws and the display was messed up, but I was drawn to the challenge.
+I found this on Facebook Marketplace listed as parts only. It's Bratz-themed Cathode Ray Tube (CRT) television from the early 2000s. These specialty kids' sets were made in limited quantities and are now rare and collectible. The housing was missing a few screws and the display was messed up, but I was drawn to the challenge.
 
 I've been into CRT technology for a while now and I collect them for the retro gaming events I run. This deal was too good to pass up.
 
@@ -71,7 +71,7 @@ For the tilt, I pryed off the metal brackets holding the tube assembly and — w
     <p><em>Both Brackets Removed</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/tube_top.jpg" style="width:100%; height:250; object-fit:cover;">
+    <img src="../images/tube_top.jpg" style="width:100%; height:350; object-fit:cover;">
     <p><em>Yoke Adjustment (Copper Part)</em></p>
   </div>
 </div>
@@ -81,30 +81,34 @@ The missing screws were sorted out at the hardware store. I just tried different
 ---
 
 ## Reassembly & Testing
-Powering it on after reassembly, the black bar was gone and the tilt was corrected. 
-Progress. However, the bowing on the edges of the display was still prominent.
+Powering it back on after reassembly, the black bar was gone and the tilt was corrected. Great progress! But the bowing on the edges was still there.
 
-<div align="center">
-  <img src="../images/crt-bowing.jpg" style="width:75%; height:auto;">
-  <p><em>Edge bowing still visible after initial reassembly</em></p>
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="../images/bowing_left.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em></em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/bowing_top.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Edges of Display Bowing</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/bowing_right.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em></em></p>
+  </div>
 </div>
 
-After further research, I found how to access the service menu — a hidden diagnostic 
-menu built into the TV — and adjusted the pin amplifier setting, which controls the 
-shape of the display geometry, correcting the bowing entirely.
+After some further research, I found out how to access the service menu, a hidden diagnostic menu built into certain TVs. From there I adjusted the pin amplifier setting, which controls the shape of the display geometry, and that corrected the bowing!
 
 <div align="center">
-  <img src="../images/crt-fixed.jpg" style="width:75%; height:auto;">
+  <img src="../images/after.jpg" style="width:75%; height:auto;">
   <p><em>Display after pin amplifier adjustment</em></p>
 </div>
 
 ---
 
 ## Final Result
-A fully restored, fully functional Bratz CRT. The display looks great and all three 
-issues — the black bar, the tilt, and the bowing — have been resolved. Beyond the 
-technical outcome, this was a valuable hands-on lesson in electronics troubleshooting, 
-CRT safety, and working without a perfect roadmap.
+All the display issues were resolved. The display looks fantastic. Beyond the results, this was a valuable hands-on lesson in electronics troubleshooting.
 
 <div align="center">
   <img src="../images/crt-final.jpg" style="width:75%; height:auto;">

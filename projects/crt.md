@@ -17,7 +17,7 @@ I've been into CRT technology for a while now and I collect them for the retro g
 ---
 
 ## Initial Assessment
-It powered on, which was promising. But the picture had a black bar across the top, the whole image was tilted at an angle, and both sides of the screen were bowing inward. I ran it through a display testing tool to get a better read on what I was dealing with. It was clear this CRT needed to be taken apart.
+It powered on, which was promising. But the picture had a black bar across the top, the whole image was tilted at an angle, and each side of the screen were bowing inward. I ran it through a display testing tool to get a better read on what I was dealing with. It was clear this CRT needed to be taken apart.
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
@@ -39,19 +39,9 @@ It powered on, which was promising. But the picture had a black bar across the t
 ## Teardown
 Once I got inside, two things stood out immediately. A blown capacitor on the neckboard, which was almost certainly the cause of the black bar. And the epoxy that's supposed to hold the yoke in place had completely dried out and crumbled, letting the yoke shift and causing the tilt. The inside was also covered in dust, so I got that cleaned out before anything else.
 
-<div style="display:flex; gap:10px; justify-content:center;">
-  <div style="text-align:center;">
-    <img src="../images/blown_capacitor.jpg" style="width:100%; height:auto; object-fit:cover;">
-    <p><em>Faulty Capacitor</em></p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../images/vertical_issue2.jpg" style="width:100%; height:auto; object-fit:cover;">
-    <p><em>Display Geometry Issue</em></p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../images/hazard_zones.jpg" style="width:100%; height:auto; object-fit:cover;">
-    <p><em>Display Borders Issue</em></p>
-  </div>
+<div align="center">
+  <img src="../images/blown_capacitor.jpg" style="width:75%; height:auto;">
+  <p><em>Faulty Capacitor</em></p>
 </div>
 
 ---

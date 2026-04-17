@@ -50,29 +50,33 @@ Once I got inside, two things stood out immediately. A blown capacitor on the ne
 I tracked down a service manual for a similar CRT by cross-referencing the circuit board model. Going through the electrical schematic, I was able to pinpoint the specs of the blown capacitor and figure out what I needed to order.
 
 <div align="center">
-  <img src="../images/circuit_diagram.jpg" style="width:75%; height:auto;">
+  <img src="../images/circuit_diagram.JPG" style="width:75%; height:auto;">
   <p><em>Circuit Board Schematic</em></p>
 </div>
 
 ---
 
 ## The Fix
-I ordered a replacement capacitor with a higher voltage rating to future-proof the repair. 
-Before any work on the board, I properly discharged the CRT — these tubes store high 
-voltage even after being powered off and unplugged, making this a critical safety step. 
-I then desoldered the blown capacitor and soldered the new one in place.
+I ordered a replacement capacitor with a higher voltage rating to future-proof the repair. Before touching anything on the board, I properly discharged the CRT. These tubes store high voltage even after being powered off and unplugged, making this a critical safety step. I then desoldered the blown capacitor and soldered the new one in place.
 
-For the tube tilt, I removed the metal brackets holding the tube assembly, and — wearing 
-insulated rubber gloves — carefully rotated the tube back to level. Once aligned, I 
-re-secured it with fresh epoxy.
+For the tilt, I pryed off the metal brackets holding the tube assembly and — with insulated rubber gloves on — carefully rotated the tube back into position. Once aligned, I used fresh epoxy to lock it in place.
 
-<div align="center">
-  <img src="../images/crt-brackets.jpg" style="width:75%; height:auto;">
-  <p><em>Metal brackets removed to access and rotate the tube</em></p>
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="../images/tube_bracket.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Metal Bracket</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/brackets_removed.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Both Brackets Removed</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/tube_top.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <p><em>Yoke Adjustment (Copper Part)</em></p>
+  </div>
 </div>
 
-The two missing housing screws were sourced the old fashioned way — a trip to the 
-hardware store and trial and error until I found the right fit.
+The missing screws were sorted out at the hardware store. I just tried different sizes until one was a correct match.
 
 ---
 

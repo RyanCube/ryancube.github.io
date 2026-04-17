@@ -64,11 +64,11 @@ A custom adapter was designed and CNC machined from 6061-T4 aluminum to connect 
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="../images/a.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <img src="../images/adapter_drawing.JPG" style="width:100%; height:200px; object-fit:cover;">
     <p><em>Adapter CAD Drawing</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/a.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <img src="../images/adapter.jpg" style="width:100%; height:200px; object-fit:cover;">
     <p><em>Machined Adapter</em></p>
   </div>
 </div>

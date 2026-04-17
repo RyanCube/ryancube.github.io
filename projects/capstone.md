@@ -72,7 +72,7 @@ A custom adapter was designed and CNC machined from 6061-T4 aluminum to connect 
     <p><em>Adapter CAD Drawing</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/adapter.jpg" style="width:100%; height:250px; object-fit:cover;">
+    <img src="../images/adapter.jpg" style="width:100%; height:450px; object-fit:cover;">
     <p><em>Machined Adapter</em></p>
   </div>
 </div>
@@ -84,7 +84,7 @@ The project concluded with a showcase event, where the prototype and a replica l
 
 <div align="center">
   <img src="../images/prototype.jpg" style="width:75%; height:auto;">
-  <p><em>Prototype</em></p>
+  <p><em>Prototype & Replica Lifting Lug</em></p>
 </div>
 
 The presentation included a successful live demonstration of the device. The project earned 3rd place overall out of 25 teams.

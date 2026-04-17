@@ -58,6 +58,20 @@ To thread the sling through the lifting lug, a hook-threading tool was incorpora
   <p><em>Hook Threader</em></p>
 </div>
 
-To integrate the telescopic pole with the hook threading tool, a custom adapter was designed and machined in-house.. 
+## Prototype Construction
+
+A custom adapter was designed and CNC machined from 6061-T4 aluminum to connect the telescopic pole and hook-threading tool. One end features a tight transitional fit over the pole threads, while the opposite end is tapped with an M8 thread compatible with the hook threader. The adapter was bonded to the pole using Sikaflex-221 to create a rigid prototype for the final design presentation.
+
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="../images/a.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <p><em>Adapter CAD Drawing</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/a.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <p><em>Machined Adapter</em></p>
+  </div>
+</div>
+
 
 [← Back to Home](../)

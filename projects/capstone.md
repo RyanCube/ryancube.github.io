@@ -73,5 +73,30 @@ A custom adapter was designed and CNC machined from 6061-T4 aluminum to connect 
   </div>
 </div>
 
+## Design Day Presentation
+The project concluded with a showcase event, where the prototype and a replica lifting lug assembly were presented to the judges and the public.
+
+<div align="center">
+  <img src="../images/prototype.jpg" style="width:75%; height:auto;">
+  <p><em>Prototype</em></p>
+</div>
+
+The presentation included a successful live demonstration of the device. The project earned 3rd place overall out of 25 teams.
+
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="../images/demonstration_1.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <p><em>Demonstration Part 1</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/demonstration_2.jpg" style="width:100%; height:200px; object-fit:cover;">
+    <p><em>Demonstration Part 2</em></p>
+  </div>
+</div>
+
+<div align="center">
+  <img src="../images/c.jpg" style="width:75%; height:auto;">
+  <p><em>3rd Place Certificate</em></p>
+</div>
 
 [← Back to Home](../)

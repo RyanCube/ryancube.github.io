@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-At Ontario Power Generation (OPG), resin waste is stored in cylindrical liners housed within the IC-18 inground storage structures. Each structure extends approximately 40 ft below grade and contains six resin liners stacked vertically. Every resin liner includes a lifting lug to allow handling during storage operations.
+At Ontario Power Generation (OPG), resin waste is stored in cylindrical liners housed within the IC-18 inground storage structures. Each structure extends approximately 40-ft below grade and contains six resin liners stacked vertically. Every resin liner includes a lifting lug to allow handling during storage operations.
 
 <div align="center">
   <img src="../images/confined_space_schematic.jpg" style="width:75%; height:auto;">
@@ -34,7 +34,7 @@ The existing retrieval process required workers to enter the IC-18 structure on 
 ---
 
 ## Initial Design Concept
-With the given constraints, a **Hook-Gate Controller with Magnets** was designed. This design concept aimed to eliminate the need for a crane lifting sling altogether. It would attach to the crane, and be lowered into the IC-18. The electromagnets would attract and raise the lifting lug to its "up" position. Then, the gate of the hook could be controlled remotely, securing the lifting lug in place.
+Given the initial constraints, a **Hook-Gate Controller with Magnets** was developed. This design concept intended to eliminate the need for a crane lifting sling. The device would attach to the crane and be lowered into the IC-18, where electromagnets would raise the lifting lug into position and a remotely controlled gate would secure it for lifting.
 
 <div align="center">
   <img src="../images/hook_gate_controller.JPG" style="width:75%; height:auto;">
@@ -42,20 +42,22 @@ With the given constraints, a **Hook-Gate Controller with Magnets** was designed
 </div>
 
 ## Major Design Pivot
-The hook-gate controller with magnets was conceptualized with the assumption that the lifting lugs were ferrous. However, later meetings with OPG revealed that not all lifting lugs were attracted to a magnet. Also, rather than using a lifting hook, OPG preferred a method of looping a lifting sling through the lifting lug. Therefore, a significant design pivot was made to accomodate these new requirements.
+This concept assumed the lifting lugs were ferrous. However, discussions with OPG later revealed that not all lifting lugs were magnetic. In addition, OPG preferred a method that looped a lifting sling through the lug rather than using a lifting hook. These new requirements prompted a significant design pivot.
 
-First, a 30 ft telescopic pole is used because it provides higher rigidity and control, as opposed to a cable with a hook dangling at the end of it.
+The updated approach focused on creating a simple, surface-operated threading method. A 30-ft telescopic pole was selected to provide rigidity and precise control, replacing the idea of suspending tools from a cable.
 
 <div align="center">
   <img src="../images/telescopic_pole.JPG" style="width:75%; height:auto;">
   <p><em>7 to 30 Foot Extendable Pole</em></p>
 </div>
 
-Next, a hook threader is used to loop a rope through the lifting lug. I discovered this through researching potential ways ropes were passed through stationary objects. The hook threader is typically used by fishermen to easily pass a line around a mooring.
+To thread the sling through the lifting lug, a hook-threading tool was incorporated. This concept was inspired by fishing tools used to pass lines around mooring points, which offered a simple and reliable way to guide a rope through a stationary object.
 
 <div align="center">
   <img src="../images/threading_tool.JPG" style="width:75%; height:auto;">
   <p><em>Hook Threader</em></p>
 </div>
+
+To integrate the telescopic pole with the hook threading tool, a custom adapter was designed and machined in-house.. 
 
 [← Back to Home](../)

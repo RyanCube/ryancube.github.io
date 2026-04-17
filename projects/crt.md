@@ -63,15 +63,15 @@ For the tilt, I pryed off the metal brackets holding the tube assembly and — w
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="../images/tube_bracket.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <img src="../images/tube_bracket.jpg" style="width:100%; height:250; object-fit:cover;">
     <p><em>Metal Bracket</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/brackets_removed.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <img src="../images/brackets_removed.jpg" style="width:100%; height:250; object-fit:cover;">
     <p><em>Both Brackets Removed</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/tube_top.jpg" style="width:100%; height:auto; object-fit:cover;">
+    <img src="../images/tube_top.jpg" style="width:100%; height:250; object-fit:cover;">
     <p><em>Yoke Adjustment (Copper Part)</em></p>
   </div>
 </div>

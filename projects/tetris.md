@@ -83,7 +83,7 @@ This is where I wanted to really raise the bar. Some of what my team and I put t
 Saturday and Sunday were a lot. We ran out of seats pretty quickly and it turned into standing room only. TGE attendees kept wandering over to watch and staying longer than they probably planned. By the end of the weekend, TGE staff told us we had the biggest crowd of anyone at the expo. Everything ran on time, the level of play was close to world championship calibre, and because I had scheduled roles carefully, I was mostly supervising and handling small things rather than scrambling to keep things together.
 
 <div align="center">
-  <img src="../images/2026 - CTWC Toronto --170 crowd.jpg" style="width:75%; height:auto;">
+  <img src="../images/2026 - CTWC Toronto --170 crowd.jpg" style="width:100%; height:auto;">
   <p><em>Standing Room Only by Midday Saturday</em></p>
 </div>
 

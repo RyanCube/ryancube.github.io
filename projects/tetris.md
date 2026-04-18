@@ -2,7 +2,7 @@
 
 # Toronto's First Classic Tetris Tournament
 
-**Event Director | March 28-29, 2025 | 100+ Participants**
+Event Director | March 28-29, 2025 | 100+ Participants
 
 ---
 
@@ -83,17 +83,17 @@ This is where I wanted to really raise the bar. Some of what my team and I put t
 Saturday and Sunday were a lot. We ran out of seats pretty quickly and it turned into standing room only. TGE attendees kept wandering over to watch and staying longer than they probably planned. By the end of the weekend, TGE staff told us we had the biggest crowd of anyone at the expo. Everything ran on time, the level of play was close to world championship calibre, and because I had scheduled roles carefully, I was mostly supervising and handling small things rather than scrambling to keep things together.
 
 <div align="center">
-  <img src="../2026 - CTWC Toronto --170 crowd.jpg" style="width:75%; height:auto;">
+  <img src="../images/2026 - CTWC Toronto --170 crowd.jpg" style="width:75%; height:auto;">
   <p><em>Standing Room Only by Midday Saturday</em></p>
 </div>
 
 <div align="center">
-  <img src="../image.jpg" style="width:75%; height:auto;">
+  <img src="../images/image.jpg" style="width:75%; height:auto;">
   <p><em>Gold Bracket Players</em></p>
 </div>
 
 <div align="center">
-  <img src="../image.jpg" style="width:75%; height:auto;">
+  <img src="../images/image.jpg" style="width:75%; height:auto;">
   <p><em>Silver Bracket Players</em></p>
 </div>
 
@@ -102,19 +102,19 @@ Saturday and Sunday were a lot. We ran out of seats pretty quickly and it turned
 ## The Moments That Made It Worth It
 Throughout the weekend, people came up to tell me it was their first Classic Tetris event! Some had been watching online for years but never had anything close enough to attend. A few said they found out through the promotional video and decided to make the trip. People telling me it was worth it, that the event was everything they hoped for, that's what really confirmed the whole thing was worth the six months of work.
 
-That was the purpose from the beginning. Not just to run a tournament, but to give people the kind of experience that makes them want to come back.
+That was always the goal. More than a tournament, I wanted to give people a real taste of what the Classic Tetris scene actually is. A community that spans generations, built around a genuine love for the game.
 
 <div align="center">
-  <img src="../2026 - CTWC Toronto --161 wallbant(1).jpg" style="width:75%; height:auto;">
+  <img src="../images/2026 - CTWC Toronto --161 wallbant(1).jpg" style="width:75%; height:auto;">
   <p><em></em></p>
 </div>
 
 ---
 
 ## Outcome
-It was a success. Everything ran on time, the competition was incredible, and TGE has already invited us back for next year! This was the biggest project I've ever taken on, and the most rewarding.
+It was by all measures a success. Everything ran on time, the competition was incredible, and TGE has already invited us back for next year! This was the biggest project I've ever taken on, and the most rewarding.
 
 ---
-Photo credits to David MacDonald
+*Photo credits to David MacDonald*
 
 [← Back to Home](../)

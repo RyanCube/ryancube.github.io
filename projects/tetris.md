@@ -88,14 +88,14 @@ The goal was to run the event to the standard of established regional tournament
 
 ## Event Enhancements & Attendee Experience
 
+To elevate the event and improve the attendee experience, the team delivered additional initiatives:
+- Created a Toronto travel guide for ~30 international attendees
+- Designed and sourced custom handmade trophies for bracket finalists
+- Produced limited-edition event merchandise
+- Filmed a [promotional video](https://www.youtube.com/watch?v=15VdB60fx7k) at Toronto landmarks
+- Organized a sponsored after-party to extend community engagement
 
-This is where I wanted to really raise the bar. Some of what my team and I put together:
-- **Toronto Travel & Tourism Guide** for the roughly 30 Americans attending, some visiting Canada for the first time, to make the trip as easy as possible
-- **Custom wooden trophies** for Gold and Silver bracket finalists
-- **Limited edition t-shirts** to make the event feel special
-- **[Promotional video](https://www.youtube.com/watch?v=15VdB60fx7k)** filmed at Toronto landmarks
-- **Promotional live stream** featuring world-class players who were attending
-- **Sponsored afterparty** at a booked restaurant to keep the community together after the event 
+These efforts helped position the tournament as a destimation event rather than a small local gathering.
 
 <div align="center">
   <img src="../images/trophies.jpg" style="width:75%; height:auto;">
@@ -107,10 +107,20 @@ This is where I wanted to really raise the bar. Some of what my team and I put t
   <p><em>Limited Edition Event T-shirt Design</em></p>
 </div>
 
+<div align="center">
+  <img src="../images/thumbnail.jpg" style="width:75%; height:auto;">
+  <p><em>Promotional Video Thumbnail</em></p>
+</div>
+
 ---
 
-## Event Weekend
-Saturday and Sunday were a lot. We ran out of seats pretty quickly and it turned into standing room only. TGE attendees kept wandering over to watch and staying longer than they probably planned. By the end of the weekend, TGE staff told us we had the biggest crowd of anyone at the expo. Everything ran on time, the level of play was close to world championship calibre, and because I had scheduled roles carefully, I was mostly supervising and handling small things rather than scrambling to keep things together.
+## Event Execution
+The two-day event exceeded attendance expectations and quickly became standing-room-only. Expo attendees regularly stopped to watch and remained engaged for extended periods
+
+Key outcomes during the event:
+- Largest crowd attraction at the expo
+- Competition ran on schedule across both days
+- Staff roles were executed as planned, allowing me to focus on overall supervision rather than reactive problem-solving
 
 <div align="center">
   <img src="../images/crowd_pan.jpg" style="width:100%; height:auto;">
@@ -130,10 +140,16 @@ Saturday and Sunday were a lot. We ran out of seats pretty quickly and it turned
 
 ---
 
-## The Moments That Made It Worth It
-Throughout the weekend, people came up to tell me it was their first Classic Tetris event! Some had been watching online for years but never had anything close enough to attend. A few said they found out through the promotional video and decided to make the trip. People telling me it was worth it, that the event was everything they hoped for, that's what really confirmed the whole thing was worth the six months of work.
+## Results & Impact
+The tournament was successful across logistics, attendance, and community impact:
+- 100+ participants and spectators attended
+- 300+ live-stream viewers
+- $2k+ community raised prize pool
+- Strong positive feedback from attendees and staff
+- Established Toronto as a new Classic Tetris regional location
+- Invited back by TGE to return in 2027
 
-That was always the goal. More than a tournament, I wanted to give people a real taste of what the Classic Tetris scene actually is. A community that spans generations, built around a genuine love for the game.
+This was the largest project I've ever taken on and easily one of the most rewarding experiences of my career so far.
 
 <div align="center">
   <img src="../images/chatting.jpg" style="width:75%; height:auto;">
@@ -147,13 +163,8 @@ That was always the goal. More than a tournament, I wanted to give people a real
 
 <div align="center">
   <img src="../images/announcing.jpg" style="width:75%; height:auto;">
-  <p><em>Closing Announcement</em></p>
+  <p><em>Closing Remarks</em></p>
 </div>
-
----
-
-## Outcome
-It was by all measures a success. Everything ran on time, the competition was incredible, and TGE has already invited us back for next year! This was the biggest project I've ever taken on, and the most rewarding.
 
 ---
 *Photo credits to David MacDonald*

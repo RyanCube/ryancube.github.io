@@ -27,8 +27,8 @@ Designed and prototyped a tool that eliminated confined-space entry and radiatio
 
 ---
 
-### Toronto's First Classic Tetris Tournament
-Led the end-to-end planning and execution of a competitive esports tournament, managing a 10-person team and delivering a 100+ participant event.
+### Toronto's First Tetris Esports Tournament
+Founded and directed a major Classic Tetris tournament from the ground up, managing a team of 10 through six months of planning, logistics, and on-site execution.
 
 <div align="center">
 <img src="../images/Promo_slide.jpg" width="450">

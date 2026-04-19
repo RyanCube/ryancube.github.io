@@ -67,8 +67,6 @@ Designed and fabricated a Rubik's Cube costume with a rotating middle layer, all
 Email: [choryan555@gmail.com](mailto:choryan555@gmail.com)  
 LinkedIn: [linkedin.com/in/ryanmcho](https://linkedin.com/in/ryanmcho)
 
----
-*Headshot photo by David MacDonald*
 
 <!--
 **RyanCube/ryancube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

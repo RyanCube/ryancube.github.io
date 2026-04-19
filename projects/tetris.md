@@ -135,19 +135,19 @@ Throughout the weekend, people came up to tell me it was their first Classic Tet
 
 That was always the goal. More than a tournament, I wanted to give people a real taste of what the Classic Tetris scene actually is. A community that spans generations, built around a genuine love for the game.
 
-<div style="display:flex; gap:10px; justify-content:center;">
-  <div style="text-align:center;">
-    <img src="../images/chatting.jpg" style="width:100%; height:350px; object-fit:cover;">
-    <p><em>Chatting with 2023 World Champion</em></p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../images/commentary.jpg" style="width:100%; height:350px; object-fit:cover;">
-    <p><em>Commentary Duos</em></p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../images/announcing.jpg" style="width:80%; height:350px; object-fit:cover;">
-    <p><em>Closing Announcement</em></p>
-  </div>
+<div align="center">
+  <img src="../images/chatting.jpg" style="width:75%; height:auto;">
+  <p><em>Chatting with 2023 World Champion</em></p>
+</div>
+
+<div align="center">
+  <img src="../images/commentary.jpg" style="width:75%; height:auto;">
+  <p><em>Live Matchplay Commentary</em></p>
+</div>
+
+<div align="center">
+  <img src="../images/announcing.jpg" style="width:75%; height:auto;">
+  <p><em>Closing Announcement</em></p>
 </div>
 
 ---

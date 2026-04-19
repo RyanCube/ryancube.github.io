@@ -136,16 +136,16 @@ That was always the goal. More than a tournament, I wanted to give people a real
 
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="../images/chatting.jpg" style="width:100%; height:300px; object-fit:cover;">
+    <img src="../images/chatting.jpg" style="width:100%; height:350px; object-fit:cover;">
     <p><em>Chatting with 2023 World Champion</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/commentary.jpg" style="width:100%; height:300px; object-fit:cover;">
+    <img src="../images/commentary.jpg" style="width:100%; height:350px; object-fit:cover;">
     <p><em>Commentary Duos</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="../images/announcing.jpg" style="width:100%; height:300px; object-fit:cover;">
-    <p><em>Announcing Updates</em></p>
+    <img src="../images/announcing.jpg" style="width:80%; height:350px; object-fit:cover;">
+    <p><em>Closing Announcement</em></p>
   </div>
 </div>
 

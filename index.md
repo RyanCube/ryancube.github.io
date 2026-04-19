@@ -4,7 +4,8 @@ title: "Ryan Cho's Portfolio"
 # Mechanical Engineering | Designer, planner, and tinkerer
 
 <div align="center">
-<img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="350">
+  <img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" width="350">
+  <p><em>Photo by David MacDonald</em></p>
 </div>
 
 I'm Ryan. I take things apart to understand them, and build things to prove I do.

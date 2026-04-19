@@ -117,14 +117,15 @@ Saturday and Sunday were a lot. We ran out of seats pretty quickly and it turned
   <p><em>Standing Room Only by Midday Saturday</em></p>
 </div>
 
-<div align="center">
-  <img src="../images/gold_bracket.jpg" style="width:75%; height:auto;">
-  <p><em>Gold Bracket Players</em></p>
-</div>
-
-<div align="center">
-  <img src="../images/silver_bracket.jpg" style="width:75%; height:auto;">
-  <p><em>Silver Bracket Players</em></p>
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="../images/gold_bracket.jpg" style="width:100%; height:300px; object-fit:cover;">
+    <p><em>Gold Bracket Players</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../images/silver_bracket.jpg" style="width:100%; height:300px; object-fit:cover;">
+    <p><em>Silver Bracket Players</em></p>
+  </div>
 </div>
 
 ---

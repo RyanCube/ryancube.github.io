@@ -24,18 +24,23 @@ Cardboard, hot glue, poster paper, a plastic ring, suspenders, bungee cord, doub
 The costume is three seperate layers, each independently secured to the body.
 
 <div align="center">
-  <img src="../images/rubiks-sketch.jpg" style="width:75%; height:auto;">
-  <p><em>Initial sketches and concept designs</em></p>
+  <img src="../images/rubiks_sketch.jpg" style="width:75%; height:auto;">
+  <p><em>Initial Sketches and Concept Designs</em></p>
 </div>
 
 **Middle layer** sits at torso level using suspenders attached to a circular cardboard piece. A plastic ring was added to it, allowing the outer cardboard layer to rotate freely around it. The concept was inspired by a ball bearing, which has a hollow center but still allows full rotational movement around it. Low friction tape on the contact surfaces kept the rotation smooth.
 
 <div align="center">
-  <img src="../images/rubiks-mechanism.jpg" style="width:75%; height:auto;">
-  <p><em>Middle layer and rotating mechanism</em></p>
+  <img src="../images/rubiks_mechanism.jpg" style="width:75%; height:auto;">
+  <p><em>Middle Layer and Rotating Mechanism</em></p>
 </div>
 
 **Top layer** rests on the shoulders with cutouts for the arms and head, and added components to limit unwanted movement
+
+<div align="center">
+  <img src="../images/rubiks_top.JPG" style="width:75%; height:auto;">
+  <p><em>Top Layer in Progress</em></p>
+</div>
 
 **Bottom layer** is secured at the hips using a bungee cord as a belt.
 
@@ -43,14 +48,14 @@ The project was 3 days of designing and gathering resources, 2 days of building.
 
 <div align="center">
   <img src="../images/rubiks-before-stickers.jpg" style="width:75%; height:auto;">
-  <p><em>Wearing the finished structure before stickers were applied</em></p>
+  <p><em>Wearing the Layers after Building (before stickers)</em></p>
 </div>
 
 ## Result
 1st place at the IPEX Inc. Halloween costume contest. The rotating mechanism worked as intended and held up throughout the day. People enjoyed the fact that the costume could be scrambled and solved.
 
 <div align="center">
-  <img src="../images/rubiks-final.jpg" style="width:75%; height:auto;">
+  <img src="../images/rubiks_final.JPG" style="width:75%; height:auto;">
   <p><em>Completed costume</em></p>
 </div>
 

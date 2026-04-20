@@ -51,7 +51,7 @@ Serviced and restored a CRT television through full disassembly, electronics rep
 ---
 
 ### Functional Rubik’s Cube Costume 
-Designed and fabricated a Rubik's Cube costume with a rotating middle layer, allowing the costume to be "scrambled" and "solved."
+Engineered a wearable Rubik's Cube costume with a functional rotating middle layer, balancing mechanical design with wearability constraints.
 
 <div align="center">
 <img src="../images/cube_costume_with_cube.JPG" width="350">

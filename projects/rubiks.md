@@ -38,7 +38,7 @@ The costume is three seperate layers, each independently secured to the body.
 **Top layer** rests on the shoulders with cutouts for the arms and head, and added components to limit unwanted movement
 
 <div align="center">
-  <img src="../images/rubiks_top.JPG" style="width:75%; height:auto;">
+  <img src="../images/rubiks_progress.jpg" style="width:75%; height:auto;">
   <p><em>Top Layer in Progress</em></p>
 </div>
 
@@ -47,7 +47,7 @@ The costume is three seperate layers, each independently secured to the body.
 The project was 3 days of designing and gathering resources, 2 days of building.
 
 <div align="center">
-  <img src="../images/rubiks-before-stickers.jpg" style="width:75%; height:auto;">
+  <img src="../images/rubiks_before_stickers.jpg" style="width:75%; height:auto;">
   <p><em>Wearing the Layers after Building (before stickers)</em></p>
 </div>
 
@@ -56,7 +56,7 @@ The project was 3 days of designing and gathering resources, 2 days of building.
 
 <div align="center">
   <img src="../images/rubiks_final.JPG" style="width:75%; height:auto;">
-  <p><em>Completed costume</em></p>
+  <p><em>Completed Costume</em></p>
 </div>
 
 [← Back to Home](../)

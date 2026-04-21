@@ -28,6 +28,17 @@ Designed and prototyped a tool that eliminated confined-space entry and radiatio
 
 ---
 
+### Functional Rubik’s Cube Costume 
+Engineered a wearable Rubik's Cube costume with a functional rotating middle layer, balancing mechanical design with wearability constraints.
+
+<div align="center">
+<img src="../images/cube_costume_with_cube.JPG" width="350">
+</div>
+
+[→ Read More](./projects/rubiks)
+
+---
+
 ### Toronto's First Tetris Esports Tournament
 Founded and directed a major Classic Tetris tournament from the ground up, managing a team of 10 through six months of planning, logistics, and on-site execution.
 
@@ -49,18 +60,6 @@ Serviced and restored a CRT television through full disassembly, electronics rep
 [→ Read More](./projects/crt)
 
 ---
-
-### Functional Rubik’s Cube Costume 
-Engineered a wearable Rubik's Cube costume with a functional rotating middle layer, balancing mechanical design with wearability constraints.
-
-<div align="center">
-<img src="../images/cube_costume_with_cube.JPG" width="350">
-</div>
-
-[→ Read More](./projects/rubiks)
-
----
-
 
 ## Contact
 

@@ -4,7 +4,7 @@ title: "Ryan Cho's Portfolio"
 # Mechanical Engineering | Designer, planner, and tinkerer
 
 <div align="center">
-  <img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" style="width:40%; height:auto;">
+  <img src="../images/Wallbant Headshot Jonas Cup 2025 square.JPG" style="width:50%; height:auto;">
   <p><em>Photo by David MacDonald</em></p>
 </div>
 
@@ -32,7 +32,7 @@ Designed and prototyped a tool that eliminated confined-space entry and radiatio
 Engineered a wearable Rubik's Cube costume with a functional rotating middle layer, balancing mechanical design with wearability constraints.
 
 <div align="center">
-<img src="../images/cube_costume_with_cube.JPG" style="width:40%; height:auto;">
+<img src="../images/cube_costume_with_cube.JPG" style="width:50%; height:auto;">
 </div>
 
 [→ Read More](./projects/rubiks)
@@ -54,7 +54,7 @@ Founded and directed a major Classic Tetris tournament from the ground up, manag
 Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation.
 
 <div align="center">
-<img src="../images/tube_top.jpg" style="width:75%; height:auto;">
+<img src="../images/tube_top.jpg" style="width:60%; height:auto;">
 </div>
 
 [→ Read More](./projects/crt)

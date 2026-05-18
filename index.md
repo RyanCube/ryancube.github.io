@@ -17,6 +17,17 @@ The projects below reflect that approach.
 ---
 ## Featured Projects
 
+### CRT Television Repair & Restoration
+Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation.
+
+<div align="center">
+<img src="../images/tube_top.jpg" style="width:60%; height:auto;">
+</div>
+
+[→ Read More](./projects/crt)
+
+---
+
 ### Surface-Operated Resin Liner Retrieval System
 Designed and prototyped a tool that eliminated confined-space entry and radiation exposure while accelerating resin liner retrieval time. Awarded **3rd place** in the Mechanical Engineering capstone project.
 
@@ -25,17 +36,6 @@ Designed and prototyped a tool that eliminated confined-space entry and radiatio
 </div>
 
 [→ Read More](./projects/capstone)
-
----
-
-### Functional Rubik’s Cube Costume 
-Engineered a wearable Rubik's Cube costume with a functional rotating middle layer, balancing mechanical design with wearability constraints.
-
-<div align="center">
-<img src="../images/cube_costume_with_cube.JPG" style="width:50%; height:auto;">
-</div>
-
-[→ Read More](./projects/rubiks)
 
 ---
 
@@ -50,14 +50,14 @@ Founded and directed a major Classic Tetris tournament from the ground up, manag
 
 ---
 
-### CRT Television Repair & Restoration
-Serviced and restored a CRT television through full disassembly, electronics repair, high-voltage adjustments, and display calibration to return the set to reliable operation.
+### Functional Rubik’s Cube Costume 
+Engineered a wearable Rubik's Cube costume with a functional rotating middle layer, balancing mechanical design with wearability constraints.
 
 <div align="center">
-<img src="../images/tube_top.jpg" style="width:60%; height:auto;">
+<img src="../images/cube_costume_with_cube.JPG" style="width:50%; height:auto;">
 </div>
 
-[→ Read More](./projects/crt)
+[→ Read More](./projects/rubiks)
 
 ---
 
